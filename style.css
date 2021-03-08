@@ -3,6 +3,9 @@
   padding: 0px;
   box-sizing: border-box;
 }
+a{
+  text-decoration: none;
+}
 nav{
   display: flex;
   justify-content: space-around;
@@ -203,8 +206,8 @@ nav{
   .round {
 
     align-items: center;
-    height: 70px;
-    width: 70px;
+    height: 100px;
+    width: 100px;
     border-radius: 50%;
     display: inline-block;
     margin: 2%;
